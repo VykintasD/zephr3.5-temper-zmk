@@ -1,6 +1,5 @@
-layers:
-  - DEFAULT
-  - QWERTY
-  - NUM
-  - NAV
-  - FUN
+# Try removing any potential extra fields
+layout:
+  name: "custom"   # Only if required, otherwise remove
+render:
+  font_size: 14    # Basic styling, adjust if unnecessary
